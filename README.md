@@ -27,6 +27,7 @@
 This project uses GitHub graphQL API to get the commit histories and write into the gist by [rest.js](https://github.com/octokit/rest.js#readme)
 
 ## Setup
+> KOR: <https://fernando.kr/develop/2020-05-02-github-gist-posting/>
 
 ### Prep work
 1. Create a new public GitHub Gist (https://gist.github.com/)
